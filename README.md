@@ -114,10 +114,10 @@ const anshuman = {
 <div align="center">
 
 | 🔥 Project | 🛠️ Tech Stack | 📁 Code |
-|:-----------|:-------------|:--------|:--------|
-| **[Chat App]** — *Real Time Chat Platform* | React · Node · MongoDB · Express | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)]([YOUR_REPO_LINK_1](https://github.com/Anshuman-Prakash/chat-app)) |
-| **[Ecomme]** — *Online Marketplace for buy and sell* | React · Node · MongoDB · JWT Auth | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)]([YOUR_REPO_LINK_2](https://github.com/Anshuman-Prakash/Ecomme)) |
-| **[LoveUrDays]** — *A place where you can Book Hotels* | React · Express · REST API | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)]([YOUR_REPO_LINK_3](https://github.com/Anshuman-Prakash/LoveurDays)) |
+|:-----------|:-------------|:--------|
+| **[Chat App](https://github.com/Anshuman-Prakash/chat-app)** — *Real Time Chat Platform* | React · Node · MongoDB · Express | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/chat-app) |
+| **[Ecomme](https://github.com/Anshuman-Prakash/Ecomme)** — *Online Marketplace for Buy and Sell* | React · Node · MongoDB · JWT Auth | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/Ecomme) |
+| **[LoveUrDays](https://github.com/Anshuman-Prakash/LoveurDays)** — *A Place Where You Can Book Hotels* | React · Express · REST API | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/LoveurDays) |
 
 </div>
 
