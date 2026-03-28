@@ -53,7 +53,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const anshuman = {
@@ -68,30 +68,30 @@ const anshuman = {
 };
 ```
 
-> 🎯 **Goal:** Land a high-impact SDE role where I can contribute to scalable systems, ship meaningful features, and grow alongside world-class engineers.
+>  **Goal:** Land a high-impact SDE role where I can contribute to scalable systems, ship meaningful features, and grow alongside world-class engineers.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⚡ Core — MERN Stack
+### Core — MERN Stack
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 </p>
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp,python,java&theme=dark" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,aws,vscode&theme=dark" />
 </p>
 
-### 🏷️ Badges
+### Badges
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -107,13 +107,13 @@ const anshuman = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> 💡 *Full-stack projects built with the MERN stack — deployed and production-ready.*
+> *Full-stack projects built with the MERN stack — deployed and production-ready.*
 
 <div align="center">
 
-| 🔥 Project | 🛠️ Tech Stack | 📁 Code |
+| Project | Tech Stack | Code |
 |:-----------|:-------------|:--------|
 | **[Chat App](https://github.com/Anshuman-Prakash/chat-app)** — *Real Time Chat Platform* | React · Node · MongoDB · Express | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/chat-app) |
 | **[Ecomme](https://github.com/Anshuman-Prakash/Ecomme)** — *Online Marketplace for Buy and Sell* | React · Node · MongoDB · JWT Auth | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/Ecomme) |
@@ -122,20 +122,20 @@ const anshuman = {
 </div>
 
 <details>
-<summary>📌 <b>How I build my projects</b></summary>
+<summary> <b>How I build my projects</b></summary>
 <br/>
 
-- 🎨 **Frontend** — React + Redux/Context API for state management, responsive UI
-- ⚙️ **Backend** — Node.js + Express REST APIs with proper error handling and middleware
-- 🗄️ **Database** — MongoDB with Mongoose ODM, schema design and indexing
-- 🔐 **Auth** — JWT-based authentication with protected routes
-- 🚢 **Deployment** — Vercel (Frontend) · Render / Railway (Backend) · MongoDB Atlas (DB)
+- **Frontend** — React + Redux/Context API for state management, responsive UI
+- **Backend** — Node.js + Express REST APIs with proper error handling and middleware
+- **Database** — MongoDB with Mongoose ODM, schema design and indexing
+- **Auth** — JWT-based authentication with protected routes
+- **Deployment** — Vercel (Frontend) · Render / Railway (Backend) · MongoDB Atlas (DB)
 
 </details>
 
 ---
 
-## 🧠 LeetCode — DSA Progress
+## LeetCode — DSA Progress
 
 <div align="center">
 
@@ -151,11 +151,11 @@ const anshuman = {
 
 </div>
 
-> 🏆 Solving problems in **C++** — focused on Arrays, Strings, Trees, DP, Graphs, and Sliding Window patterns.
+> Solving problems in **C++** — focused on Arrays, Strings, Trees, DP, Graphs, and Sliding Window patterns.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -176,7 +176,7 @@ const anshuman = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshuman-prakash&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -184,7 +184,7 @@ const anshuman = {
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <div align="center">
 
@@ -196,7 +196,7 @@ const anshuman = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -222,7 +222,7 @@ const anshuman = {
 
 <br/><br/>
 
-> 💬 *Open to internship and full-time SDE opportunities. Let's build something great together!*
+> *Open to internship and full-time SDE opportunities. Let's build something great together!*
 
 </div>
 
