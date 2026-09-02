@@ -115,6 +115,7 @@ const anshuman = {
 
 | Project | Tech Stack | Code |
 |:-----------|:-------------|:--------|
+| **[CampusFlow](https://github.com/Anshuman-Prakash/CampusFlow)** — *Students own OS* | Gemini AI · React · Node · MongoDB · Express | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/CampusFlow) |
 | **[Chat App](https://github.com/Anshuman-Prakash/chat-app)** — *Real Time Chat Platform* | React · Node · MongoDB · Express | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/chat-app) |
 | **[Ecomme](https://github.com/Anshuman-Prakash/Ecomme)** — *Online Marketplace for Buy and Sell* | React · Node · MongoDB · JWT Auth | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/Ecomme) |
 | **[LoveUrDays](https://github.com/Anshuman-Prakash/LoveurDays)** — *A Place Where You Can Book Hotels* | React · Express · REST API | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/Anshuman-Prakash/LoveurDays) |
